@@ -16,3 +16,6 @@ This is a change I am going to make on my computer.
 - git commit -m "Made changes to my readme file"
 
 - git push origin main
+
+
+This is a change to show a merge conflict.
