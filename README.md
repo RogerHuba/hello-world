@@ -13,5 +13,5 @@ Roger Huba
 ### This is the ACP Proccess we will go through
 
 - (A)dd - git add README.md (or name of file)
-- (C)ommit
-- (P)ush
+- (C)ommit - git commit -m "your message here"
+- (P)ush - git push origin main
